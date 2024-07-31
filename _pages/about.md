@@ -37,7 +37,7 @@ Intersted Field
 - Operating Systems
 
 
-Honors & awards
+<!-- Honors & awards
 -----
 - 4th place in THE Hack 2019 hackathon, Shanghai
 
@@ -47,6 +47,6 @@ Extracurricular Activities
 - Club Tech Ministers, **UTCA (**2019 - 2021)
 - *Club Leader*, **Mapleavant**, Wuhan (2017 - 2018)
     - Club Co-leader **Botance Business Club**, sub-club of Mapleavant
-    - Organized **the First Hubei Provincial Business Stimulation Competition 2016** and **the Second Hubei Provincial Business Stimulation Competition 2017**
+    - Organized **the First Hubei Provincial Business Stimulation Competition 2016** and **the Second Hubei Provincial Business Stimulation Competition 2017** -->
 
 
