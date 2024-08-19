@@ -2,7 +2,7 @@
 title: "On the Opportunities of (Re)-Exploring Atmospheric Science by Foundation Models: A Case Study"
 collection: publications
 permalink: /publication/2024-07-25-atmospheric-FM-case-study
-author: "Lujia Zhang*, Hanzhe Cui*, Yurong Song*, Chenyue Li*, Binhang Yuan, Mengqian Lu"
+author: "Lujia Zhang*, Hanzhe Cui*, Yurong Song*, <b>Chenyue Li</b>*, Binhang Yuan, Mengqian Lu"
 # excerpt: ''
 date: 2024-07-25
 venue: 'arXiv'
