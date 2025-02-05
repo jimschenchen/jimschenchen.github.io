@@ -20,10 +20,23 @@ Experience
 
 Education
 -----
+- **Hong Kong University of Science and Technology (HKUST)** (2024 - ongoing)
+    - PhD student in the Department of Computer Science and Engineering
+
 - **University of Toronto - St. George** (2019 - 2024)
     - Honours Bachelor of Science with High Distinction
     - Computer Science Specialist \| AI focus
     - Dean’s List Scholar
+
+
+Publications
+-----
+
+- <b>Chenyue Li</b>, Wen Deng, Mengqian Lu, Binhang Yuan. "AtmosSci-Bench: Evaluating the Recent Advance of Large Language Model for Atmospheric Science"
+
+- Lujia Zhang*, Hanzhe Cui*, Yurong Song*, <b>Chenyue Li</b>*, Binhang Yuan, Mengqian Lu. "On the Opportunities of (Re)-Exploring Atmospheric Science by Foundation Models: A Case Study"
+
+- David Anugraha, Genta Indra Winata, <b>Chenyue Li</b>, Patrick Amadeus Irawan, En-Shiun Annie Lee. "ProxyLM: Predicting Language Model Performance on Multilingual Tasks via Proxy Models" To appear in Findings of NAACL 2025.
 
 
 Intersted Field
