@@ -37,11 +37,15 @@ https://www.mindspore.cn/en.
 Publications
 -----
 
-- <b>Chenyue Li</b>, Wen Deng, Mengqian Lu, Binhang Yuan. "AtmosSci-Bench: Evaluating the Recent Advance of Large Language Model for Atmospheric Science"
+- <b>Chenyue Li</b>, Wen Deng, Mengqian Lu, Binhang Yuan. "AtmosSci-Bench: Evaluating the Recent Advance of Large Language Model for Atmospheric Science."
 
-- Lujia Zhang\*, Hanzhe Cui\*, Yurong Song\*, <b>Chenyue Li</b>\*, Binhang Yuan, Mengqian Lu. "On the Opportunities of (Re)-Exploring Atmospheric Science by Foundation Models: A Case Study"
+- He, Guangxin, Zonghong Dai, Jiangcheng Zhu, Binqiang Zhao, Qicheng Hu, <b>Chenyue Li</b>, You Peng, Chen Wang, and Binhang Yuan. "Zero-Indexing Internet Search Augmented Generation for Large Language Models."
 
-- David Anugraha, Genta Indra Winata, <b>Chenyue Li</b>, Patrick Amadeus Irawan, En-Shiun Annie Lee. "ProxyLM: Predicting Language Model Performance on Multilingual Tasks via Proxy Models" To appear in Findings of NAACL 2025.
+- Zhang, Lujia, Yurong Song, Hanzhe Cui, Mengqian Lu, <b>Chenyue Li</b>, Binhang Yuan, Bin Wang, Upmanu Lall, and Jing Yang. "Foundation models as assistive tools in hydrometeorology: Opportunities, challenges, and perspectives." Water Resources Research 61, no. 4 (2025): e2024WR039553.
+
+<!-- - Lujia Zhang\*, Hanzhe Cui\*, Yurong Song\*, <b>Chenyue Li</b>\*, Binhang Yuan, Mengqian Lu. "On the Opportunities of (Re)-Exploring Atmospheric Science by Foundation Models: A Case Study" -->
+
+- David Anugraha, Genta Indra Winata, <b>Chenyue Li</b>, Patrick Amadeus Irawan, En-Shiun Annie Lee. "ProxyLM: Predicting Language Model Performance on Multilingual Tasks via Proxy Models." To appear in Findings of NAACL 2025.
 
 
 Intersted Field
