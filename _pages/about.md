@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Chenyue (Jim) Li. I'm an incoming PhD student in the Department of Computer Science and Engineering at HKUST, under the supervision of [Prof Binhang YUAN](https://binhangyuan.github.io/site/). My research interest primarily focuses on large language model and AI system. Additionally, I am also interested in cybersecurity, operating system and full stack development.
+My name is Chenyue (Jim) Li. I'm an incoming PhD student in the Department of Computer Science and Engineering at HKUST, under the supervision of [Prof Binhang YUAN](https://binhangyuan.github.io/site/). My research interest primarily focuses on AI for Science(AI4S), aiming to boost the scientific discovery by leveraging the power of AI. Additionally, I also have complementary background in database， distributed Systems, cybersecurity and full-stack development.
 
 Education
 -----
@@ -16,7 +16,7 @@ Education
 
 - **University of Toronto - St. George** (2019 - 2024)
     - Honours Bachelor of Science with High Distinction
-    - Computer Science Specialist \| AI focus
+    - Computer Science Specialist
     - Dean's List Scholar
 
 
@@ -37,7 +37,7 @@ https://www.mindspore.cn/en.
 Publications
 -----
 
-- <b>Chenyue Li</b>, Wen Deng, Mengqian Lu, Binhang Yuan. "AtmosSci-Bench: Evaluating the Recent Advance of Large Language Model for Atmospheric Science."
+- <b>Chenyue Li</b>, Wen Deng, Mengqian Lu, Binhang Yuan. "AtmosSci-Bench: Evaluating the Recent Advance of Large Language Model for Atmospheric Science." To Appear in Advances in Neural Information Processing Systems 38 (2025). (NeurIPS 2025)
 
 - He, Guangxin, Zonghong Dai, Jiangcheng Zhu, Binqiang Zhao, Qicheng Hu, <b>Chenyue Li</b>, You Peng, Chen Wang, and Binhang Yuan. "Zero-Indexing Internet Search Augmented Generation for Large Language Models."
 
@@ -48,15 +48,17 @@ Publications
 - David Anugraha, Genta Indra Winata, <b>Chenyue Li</b>, Patrick Amadeus Irawan, En-Shiun Annie Lee. "ProxyLM: Predicting Language Model Performance on Multilingual Tasks via Proxy Models." To appear in Findings of NAACL 2025.
 
 
-Intersted Field
+Background & Interests
 -----
-- Machine Learning (ML)
-- Natural Language Processing (NLP)
-- Distributed Systems
-- High Performance Computing (HPC)
-- Cybersecurity
+- AI for Science (AI4S): Autonomous Scientific Discovery, AI4Research, Self-evolving AI.
+- Agentic AI: Multi-agent collaboration, persistent memory, and coordinated autonomy.
+- Machine Learning (ML) & Natural Language Processing (NLP)
+- Database: Hybrid search, Vector DB, Knowledge Graph
+- Distributed Systems & HPC
+- Cybersecurity: Cryptography, Network & System Security, Software & Web Security
 - Full Stack Development
-- Operating Systems
+- Computer Vision
+- Computer Graphics
 
 
 <!-- Honors & awards
