@@ -50,16 +50,21 @@ Publications
 
 Background & Interests
 -----
-- AI for Science (AI4S): Autonomous Scientific Discovery, AI4Research, Self-evolving AI.
-- Agentic AI: Multi-agent collaboration, persistent memory, and coordinated autonomy.
+- AI for Science (AI4S) & Agentic AI
 - Large Language Model (LLM) & Machine Learning (ML) & Natural Language Processing (NLP)
-- Database: Hybrid search, Vector DB, Knowledge Graph
+- Database
 - Distributed Systems & HPC
-- Cybersecurity: Cryptography, Network & System Security, Software & Web Security
+- Cybersecurity
 - Full Stack Development
 - Computer Vision
 - Computer Graphics
 
+<!-- - AI for Science (AI4S): Autonomous Scientific Discovery, AI4Research, Self-evolving AI.
+- Agentic AI: Multi-agent collaboration, persistent memory, and coordinated autonomy.
+- Large Language Model (LLM) & Machine Learning (ML) & Natural Language Processing (NLP)
+- Database: Hybrid search, Vector DB, Knowledge Graph
+- Distributed Systems & HPC
+- Cybersecurity: Cryptography, Network & System Security, Software & Web Security -->
 
 <!-- Honors & awards
 -----
