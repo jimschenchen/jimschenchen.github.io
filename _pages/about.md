@@ -37,14 +37,24 @@ https://www.mindspore.cn/en.
 Publications
 -----
 
-- <b>Chenyue Li</b>, Wen Deng, Mengqian Lu, Binhang Yuan. "AtmosSci-Bench: Evaluating the Recent Advance of Large Language Model for Atmospheric Science." To Appear in The Thirty-Ninth Annual Conference on Neural Information Processing Systems. (NeurIPS 2025)
+- <b>Chenyue Li</b>, Wen Deng, Zhuotao Sun, Mengxi Jin, Hanzhe Cui, Han Li, Shentong Li, Man Kit Yu, Ming Long Lai, Yuhao Yang, and others. "S2SServiceBench: A Multimodal Benchmark for Last-Mile S2S Climate Services." arXiv preprint arXiv:2602.14017. (2026)
 
-- He, Guangxin, Zonghong Dai, Jiangcheng Zhu, Binqiang Zhao, Qicheng Hu, <b>Chenyue Li</b>, You Peng, Chen Wang, and Binhang Yuan. "Zero-Indexing Internet Search Augmented Generation for Large Language Models."
+- Hyeonjae Kim*, <b>Chenyue Li</b>*, Wen Deng, Mengxi Jin, Wen Huang, Mengqian Lu, and Binhang Yuan. "CLIMATEAGENT: Multi-Agent Orchestration for Complex Climate Data Science Workflows." arXiv preprint arXiv:2511.20109. (2025)
 
-- Zhang, Lujia, Yurong Song, Hanzhe Cui, Mengqian Lu, <b>Chenyue Li</b>, Binhang Yuan, Bin Wang, Upmanu Lall, and Jing Yang. "Foundation models as assistive tools in hydrometeorology: Opportunities, challenges, and perspectives." Water Resources Research 61, no. 4 (2025): e2024WR039553.
+- <b>Chenyue Li</b>, Wen Deng, Mengqian Lu, and Binhang Yuan. "AtmosSci-Bench: Evaluating the Recent Advance of Large Language Model for Atmospheric Science." In The Thirty-ninth Annual Conference on Neural Information Processing Systems, Datasets and Benchmarks Track. (NeurIPS 2025)
 
-- David Anugraha, Genta Indra Winata, <b>Chenyue Li</b>, Patrick Amadeus Irawan, En-Shiun Annie Lee. "ProxyLM: Predicting Language Model Performance on Multilingual Tasks via Proxy Models." In 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics. (NAACL 2025 Findings)
+- Zhang, Lujia, Yurong Song, Hanzhe Cui, Mengqian Lu, <b>Chenyue Li</b>, Binhang Yuan, Bin Wang, Upmanu Lall, and Jing Yang. "Foundation Models as Assistive Tools in Hydrometeorology: Opportunities, Challenges, and Perspectives." Water Resources Research 61, no. 4 (2025): e2024WR039553.
 
+- David Anugraha, Genta Indra Winata, <b>Chenyue Li</b>, Patrick Amadeus Irawan, and En-Shiun Annie Lee. "ProxyLM: Predicting Language Model Performance on Multilingual Tasks via Proxy Models." In Findings of the 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (pp. 1981--2011). (NAACL 2025)
+
+- Qiu, Zipeng, <b>Chenyue Li</b>, You Peng, Guangxin He, Binhang Yuan, and Chen Wang. "TQA-Bench: Evaluating LLMs for Multi-Table Question Answering." OpenReview preprint (manuscript). (2025) https://openreview.net/pdf?id=hxEHr5gJBY
+
+- He, Guangxin, Zonghong Dai, Jiangcheng Zhu, Binqiang Zhao, Qicheng Hu, <b>Chenyue Li</b>, You Peng, Chen Wang, and Binhang Yuan. "Zero-Indexing Internet Search Augmented Generation for Large Language Models." arXiv preprint arXiv:2411.19478. (2024)
+
+Acknowledgements
+-----
+
+- David Anugraha, Vishakh Padmakumar, and Diyi Yang. "SparkMe: Adaptive Semi-Structured Interviewing for Qualitative Insight Discovery." arXiv preprint arXiv:2602.21136. (2026) <b>Acknowledged contributor:</b> <b>Chenyue Li</b>.
 
 Background & Interests
 -----
